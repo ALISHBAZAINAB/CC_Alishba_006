@@ -1,8 +1,5 @@
-# lab2 git practice
+### Assignment 1
 
-Name:Alishba Zainab
-
-Roll no:23-BSE-006
-
-
+**Students:**
+- Alishba — Roll No: (your_roll_number_here)
 
